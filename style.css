@@ -1,4 +1,4 @@
-#42445Abody {
+S#42445Abody {
  height: 100vh;
  background-color: #073b4c;
 }
@@ -136,7 +136,7 @@ p {
 .name {
   position: absolute;
   left:150px;
-  top:200px;
+  top:190px;
   color: #333;
   text-decoration: underline;
 }
